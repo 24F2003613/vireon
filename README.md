@@ -1,9 +1,9 @@
 # in collab files, .ipynb ,i have done detailed step by step way
 
 ## in feature 1
-first it said to arrange acording to devices
-i got the count of shed and strs
-then ran a loop 
+first it said to arrange acording to devices. 
+i got the count of shed and strs. 
+then ran a loop   
 which on having shed 1 - 
 checks timestamp within 5(missed)/10 mins(danger) - d["timestamp"].diff().dt.total_seconds() / 60 
 if greater 10 mins count to danger and gets added there
