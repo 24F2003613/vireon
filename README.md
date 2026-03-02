@@ -11,12 +11,19 @@ python3 1.py && python3 2.py
 
 ## in feature 1
 first it said to arrange acording to devices. 
+
 i got the count of shed and strs. 
+
 then ran a loop   
+
 which on having shed 1 - 
-checks timestamp within 5(missed)/10 mins(danger) - d["timestamp"].diff().dt.total_seconds() / 60   
+
+checked timestamp within 5(missed)/10 mins(danger) - d["timestamp"].diff().dt.total_seconds() / 60   
+
 if greater 10 mins count to danger and gets added there. 
+
 we eventually get total reading and completness %. 
+
 same for other shed - shed 2. 
 
 ## in feature 2
