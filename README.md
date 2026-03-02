@@ -13,7 +13,9 @@ same for other shed - shed 2.
 ## in feature 2
 we are given conditions already listed down   
 -> voltage_unbalance_pct > 2 , voltage_unbalance_pct > 5. 
+
 -> pf_avg < 0.9 , pf_avg < 0.85. 
+
 -> neutral_current_a > 0.1*avg_ph. 
 -> avg_phase is the mean of currents through r b and y. 
 -> fire_risk_level - HIGH/WARNING - flag. 
