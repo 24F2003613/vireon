@@ -3,9 +3,9 @@
 ## requirements
 
 python3 -m venv venv                                            
-source venv\bin\activate
-pip install pandas
-pip install ipykernel
+source venv\bin\activate 
+pip install pandas 
+pip install ipykernel 
 
 python3 1.py && python3 2.py
 
