@@ -45,3 +45,8 @@ https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.assign.html.
 took help of this   
   
 and count the respective requiremnts. 
+
+## issues
+1. timestamp - str didnt notice
+2. thought each shed has 2 devices that 1 mistake
+3. loc assign needed docs help
