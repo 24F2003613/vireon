@@ -1,5 +1,14 @@
 # in collab files, .ipynb ,i have done detailed step by step way
 
+## requirements
+
+python3 -m venv venv                                            
+source venv\bin\activate
+pip install pandas
+pip install ipykernel
+
+python3 1.py && python3 2.py
+
 ## in feature 1
 first it said to arrange acording to devices. 
 i got the count of shed and strs. 
